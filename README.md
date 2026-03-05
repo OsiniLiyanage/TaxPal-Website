@@ -2,10 +2,10 @@
 
 A modern, responsive website designed to simplify tax calculations for users. Built with a clean UI using Tailwind CSS and interactive JavaScript logic.
 
-> ⚠️ **Status:** 🚧 **Work in Progress (Frontend Only)**  
+> **Status:**  **Work in Progress (Frontend Only)**  
 > Backend implementation is planned for future updates.
 
----
+
 
 ## 🛠️ Tech Stack
 

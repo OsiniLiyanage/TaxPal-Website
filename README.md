@@ -26,14 +26,31 @@ A modern, responsive website designed to simplify tax calculations for users. Bu
 
 ---
 
-## Responsive views
+## 📸 Screenshots
+
+### Responsive Design Views
+
+<table>
+  <tr>
+    <td align="center"><b>🖥️ Desktop View</b></td>
+    <td align="center"><b>📱 Mobile View</b></td>
+    <td align="center"><b>📲 Tablet View</b></td>
+  </tr>
+  <tr>
+    <td><img src="./docs/desktop-view.png" width="250" alt="Desktop View"/></td>
+    <td><img src="./docs/mobile-view.png" width="150" alt="Mobile View"/></td>
+    <td><img src="./docs/tab-view.png" width="200" alt="Tablet View"/></td>
+  </tr>
+</table>
+
+> 💡 The application features a fully responsive design that adapts seamlessly to different screen sizes and devices.
+
 ---
-desktop view
-<img width="1900" height="8301" alt="desctop-view" src="https://github.com/user-attachments/assets/6f24c6a1-eb3e-4157-8e83-a23f69bd48e5" />
----
-tab view
-<img width="1253" height="10898" alt="tab-view" src="https://github.com/user-attachments/assets/713018b6-9968-4f49-9516-d3f8d51c6814" />
----
+
+### Additional Documentation
+
+- 📄 **Stem Link Documentation**: [View PDF](./docs/_D_Stem%20Link...)
+
 mobile view
 <img width="912" height="11610" alt="mobile-view" src="https://github.com/user-attachments/assets/c0956977-7565-4f45-ab8a-f4c656528c2f" />
 ---
